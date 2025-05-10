@@ -1,11 +1,11 @@
-duration	protocol_type	service	flag	src_bytes	dst_bytes	label
-62	tcp	ftp	S0	9964	3484	normal
-34	tcp	http	REJ	6278	156	normal
-87	tcp	other	SF	7941	3910	normal
-91	icmp	ftp	REJ	6332	9870	normal
-2	tcp	ftp	SF	2084	1863	attack
-16	udp	ftp	S0	2156	4487	attack
-81	tcp	ftp	S0	9795	4934	normal
-55	udp	smtp	S0	2118	9533	normal
-54	udp	ftp	SF	2966	4214	normal
-66	icmp	http	SF	4209	4966	normal
+duration,protocol_type,service,flag,src_bytes,dst_bytes,label
+62,tcp,ftp,S0,9964,3484,normal
+34,tcp,http,REJ,6278,156,normal
+87,tcp,other,SF,7941,3910,normal
+91,icmp,ftp,REJ,6332,9870,normal
+2,tcp,ftp,SF,2084,1863,attack
+16,udp,ftp,S0,2156,4487,attack
+81,tcp,ftp,S0,9795,4934,normal
+55,udp,smtp,S0,2118,9533,normal
+54,udp,ftp,SF,2966,4214,normal
+66,icmp,http,SF,4209,4966,normal
