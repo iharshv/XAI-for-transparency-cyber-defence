@@ -15,9 +15,9 @@ Traditional AI-based intrusion detection systems (IDS) are effective but lack tr
 
 ---
 
-## 📦 Setup Instructions
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/explainai-ids.git
-   cd explainai-ids
+## 📦 Demo Link
+- https://www.youtube.com/watch?v=YuDijSIR9iM
+- https://www.youtube.com/watch?v=RDA09a8ywic
+- https://www.youtube.com/watch?v=P-neqnCjnZI
+- https://www.youtube.com/watch?v=lieEuOODHJk
+- https://www.youtube.com/watch?v=YZwDizPBFaM
