@@ -77,5 +77,4 @@ Author: Harsh VishwakarmaLicense: MIT
 - https://www.youtube.com/watch?v=YZwDizPBFaM
 
 Tutorial
-
-https://youtu.be/t47OorE4iyI
+https://www.youtube.com/watch?v=t47OorE4iyI
