@@ -1,9 +1,46 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-shap
-lime
-joblib
-jupyter
+1. Purpose
+Identify whether a network connection is malicious or benign based on selected features.
+
+2. Inputs
+Features:
+
+src_bytes – bytes sent from source
+
+dst_bytes – bytes sent to destination
+
+duration – duration of the connection
+
+flag – connection status flag (encoded as a number)
+
+protocol – network protocol (e.g., TCP=1, UDP=0)
+
+3. Outputs
+Classification result:
+
+"This connection is malicious."
+
+or "This connection is benign."
+
+Graph showing feature importance
+
+🐍 Tools Needed (Software Requirements)
+Install these Python libraries:
+
+pip install pandas scikit-learn matplotlib seaborn
+🖥️ Minimum System Requirements
+Python 3.8 or higher
+
+Any computer with at least 4 GB RAM
+
+Text editor or Python IDE (e.g., VS Code, PyCharm, or Jupyter)
+
+📂 Dataset
+A small CSV file with the following columns:
+
+src_bytes, dst_bytes, duration, flag, protocol, malicious
+
+Example:
+
+src_bytes,dst_bytes,duration,flag,protocol,malicious
+500,1000,300,1,1,0
+7000,20000,1200,2,1,1
