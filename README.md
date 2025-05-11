@@ -14,8 +14,7 @@ Helps security analysts understand and validate alerts
 
 1. Clone the repository
 
-https://github.com/yourusername/malicious-connection-xai.git
-cd malicious-connection-xai
+https://github.com/iharshv/XAI-for-transparency-cyber-defence
 
 2. Create a virtual environment (optional but recommended)
 
